@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-08-25T03:08:33.958624553Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T06:49:42.689335031Z",
     "templateType": "trip_c",
     "propertyId": "f56a9c33-0623-4a6a-9813-90488e449220",
     "homepageId": "9528ccdd-ade1-4e2b-9924-adeaf3d271f0"
@@ -15,18 +15,23 @@
     "address": "전남 여수시 화양면 인금이길 19-29 여수 아른거리다 오션뷰 펜션",
     "latitude": 34.7245269357633,
     "longitude": 127.564620264873,
-    "contactPhone": "010-3820-1633",
+    "contactPhone": [
+      "070-4364-9303"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의",
-    "usageGuide": "- 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 될 수 있습니다.\n- 반려동물은 알레르기 및 시설물 관리로 인하여 출입을 금합니다.\n- 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n- 밤 20시 이후 입실을 원하실 경우 반드시 사전 연락 부탁드립니다.\n- 예약 인원 외 방문객 및 외부인 출입은 제한되며 객실 최대 기준 인원을 초과하여 입실 하실 수 없습니다.\n- 시설물 훼손 및 분실의 책임은 이용자에게 있으므로 주의바랍니다.\n- 보호자를 동반하지 않은 미성년자(만 19세미만)는 입실 불가합니다.\n- 숙소 이미지는 실제와 상이 할 수 있습니다.\n- 예약 시 예약인원을 꼭 확인해주세요.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가요금]\n※ 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 1~7호\n- 이용 장소: 야외공동바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯\n- 이용 요금: 숯 한 통(4-5인) 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~22:00\n- 우천 시 이용 불가\n- 동계 시 이용 불가\n※ 숯 추가 10,000원\n※ 추가 숯 준비 여부는 사전 확인 부탁드립니다.\n\n[개별바베큐]\n- 이용 객실: 1~7호\n- 이용 장소: 개별테라스\n- 바베큐 형태: 원적외선 전기그릴\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[부대시설]\n[선착장]\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n\n[교통편]\n[자가용 이용 시]\n※ 아래 주소를 입력해주세요\n※ 지번 주소 : 전남 여수시 화양면 이천리 728-8\n※ 도로명 주소 : 전남 여수시 화양면 인금이길 19-29\n\n[대중교통 이용 시]\n※ 여수 엑스포역  109, 111, 111-1 탑승  여수중학교 입구 탑승  24, 24-1  감도 정류장  도보 4분\n\n[주변관광지]\n※ 여수 가사리 생태공원 (차량 약 22분)\n※ 유월드루지 (차량 약 25분)\n※ 여수 돌산대교 (차량 약 42분)\n※ 만성리 검은 모래해변 (차량 약 44분)",
+    "usageGuide": "[공지사항]\n- 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 될 수 있습니다.\n- 반려동물은 알레르기 및 시설물 관리로 인하여 출입을 금합니다.\n- 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n- 밤 20시 이후 입실을 원하실 경우 반드시 사전 연락 부탁드립니다.\n- 예약 인원 외 방문객 및 외부인 출입은 제한되며 객실 최대 기준 인원을 초과하여 입실 하실 수 없습니다.\n- 시설물 훼손 및 분실의 책임은 이용자에게 있으므로 주의바랍니다.\n- 보호자를 동반하지 않은 미성년자(만 19세미만)는 입실 불가합니다.\n- 숙소 이미지는 실제와 상이 할 수 있습니다.\n- 예약 시 예약인원을 꼭 확인해주세요.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 1~7호\n- 이용 장소: 야외공동바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯\n- 이용 요금: 숯 한 통(4-5인) 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~22:00\n- 우천 시 이용 불가\n- 동계 시 이용 불가\n※ 숯 추가 10,000원\n※ 추가 숯 준비 여부는 사전 확인 부탁드립니다.\n\n[개별바베큐]\n- 이용 객실: 1~7호\n- 이용 장소: 개별테라스\n- 바베큐 형태: 원적외선 전기그릴\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[부대시설]\n[선착장]\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n\n[교통편]\n[자가용 이용 시]\n※ 아래 주소를 입력해주세요\n※ 지번 주소 : 전남 여수시 화양면 이천리 728-8\n※ 도로명 주소 : 전남 여수시 화양면 인금이길 19-29\n\n[대중교통 이용 시]\n※ 여수 엑스포역  109, 111, 111-1 탑승  여수중학교 입구 탑승  24, 24-1  감도 정류장  도보 4분\n\n[주변관광지]\n※ 여수 가사리 생태공원 (차량 약 22분)\n※ 유월드루지 (차량 약 25분)\n※ 여수 돌산대교 (차량 약 42분)\n※ 만성리 검은 모래해변 (차량 약 44분)",
     "reservationGuide": "- 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 될 수 있습니다.\n- 반려동물은 알레르기 및 시설물 관리로 인하여 출입을 금합니다.\n- 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n- 밤 20시 이후 입실을 원하실 경우 반드시 사전 연락 부탁드립니다.\n- 예약 인원 외 방문객 및 외부인 출입은 제한되며 객실 최대 기준 인원을 초과하여 입실 하실 수 없습니다.\n- 시설물 훼손 및 분실의 책임은 이용자에게 있으므로 주의바랍니다.\n- 보호자를 동반하지 않은 미성년자(만 19세미만)는 입실 불가합니다.\n- 숙소 이미지는 실제와 상이 할 수 있습니다.\n- 예약 시 예약인원을 꼭 확인해주세요.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "areungeorida.co.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1318292",
     "ybsId": "75511",
+    "tripPropertyId": "6992",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -255,7 +260,7 @@
           {
             "id": "aa3e6581-d6bc-4f3c-b8c9-5719b156fd83",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/RZUzIrMTb79i.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -265,7 +270,7 @@
           {
             "id": "1daaf789-e0ca-4bef-b41e-e94602cfcc9b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/04cUfsYe8zyn.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -273,7 +278,7 @@
           {
             "id": "1e3b5b7c-843c-476e-9e62-67200bf890a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/ySHrpYkiwhWc.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -281,7 +286,7 @@
           {
             "id": "6c0ce56b-23f7-4d32-8561-963c5b038d77",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/7109wrKIjSFU.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -289,7 +294,7 @@
           {
             "id": "dd347567-f58c-428d-8f38-ceb94e4d9e34",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/pSrgt1CGYbEH.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -297,7 +302,7 @@
           {
             "id": "9d980328-8108-4ecd-adda-1e82181175b0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/iUhaqSzkLdpv.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -305,7 +310,7 @@
           {
             "id": "24f9637c-0668-4434-bba9-93b27898f31f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/enwMD48sRdxA.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -313,7 +318,7 @@
           {
             "id": "4666ae8a-0f4a-46e0-8cc3-76d17066038f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/5XPnxKzR0FIC.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -321,7 +326,7 @@
           {
             "id": "5f94668b-9f34-49bf-90ce-4d02de91eb93",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/4vjNTG02a16u.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -329,7 +334,7 @@
           {
             "id": "f23d7dae-c721-4d7d-a5ec-abd55cfc8791",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/NIjRJreDuanL.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
